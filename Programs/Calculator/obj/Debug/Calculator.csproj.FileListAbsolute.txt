@@ -1,0 +1,2 @@
+E:\C Sharp Practice\CalculatorInterface\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\C Sharp Practice\CalculatorInterface\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
