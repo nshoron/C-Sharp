@@ -1,0 +1,10 @@
+E:\C Sharp Practice\WindowsFormApp1\bin\Debug\WindowsFormApp1.exe.config
+E:\C Sharp Practice\WindowsFormApp1\bin\Debug\WindowsFormApp1.exe
+E:\C Sharp Practice\WindowsFormApp1\bin\Debug\WindowsFormApp1.pdb
+E:\C Sharp Practice\WindowsFormApp1\obj\Debug\WindowsFormApp1.csproj.AssemblyReference.cache
+E:\C Sharp Practice\WindowsFormApp1\obj\Debug\WindowsFormApp1.Form1.resources
+E:\C Sharp Practice\WindowsFormApp1\obj\Debug\WindowsFormApp1.Properties.Resources.resources
+E:\C Sharp Practice\WindowsFormApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+E:\C Sharp Practice\WindowsFormApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+E:\C Sharp Practice\WindowsFormApp1\obj\Debug\WindowsFormApp1.exe
+E:\C Sharp Practice\WindowsFormApp1\obj\Debug\WindowsFormApp1.pdb
